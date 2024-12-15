@@ -23,7 +23,7 @@ public class Ball : MonoBehaviour
 
     private void FixedUpdate()
     {
-       // if (!isGameStarted) { return; }
+       if (!isGameStarted) { return; }
         
         speed += accelration * Time.fixedDeltaTime;
         Vector3 temp = new Vector3(0, speed * Time.fixedDeltaTime, 0);

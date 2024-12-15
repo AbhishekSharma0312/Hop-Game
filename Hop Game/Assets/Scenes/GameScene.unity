@@ -2095,7 +2095,7 @@ MonoBehaviour:
   blockPrefab: {fileID: 2822988472016726887, guid: c7852dee3b67875459028fa92d367c0b, type: 3}
   guiManager: {fileID: 1803007941}
   startPos: {x: 0, y: 0, z: 0}
-  offset: {x: 0, y: 0, z: 20}
+  offset: {x: 0, y: 0, z: 19.9}
 --- !u!1 &1370715833
 GameObject:
   m_ObjectHideFlags: 0
